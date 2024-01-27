@@ -1,7 +1,6 @@
 # PowerShell
 #### Guia para preparar `PowerShell`
-* Instalar
-* Actualizar
+* Instalar y actualizar
 * Personalizar
-* Implementacion de modulos
+* Implementacion de scripts
 * Uso referente a servidores
